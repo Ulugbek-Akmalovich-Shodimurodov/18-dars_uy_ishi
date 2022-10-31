@@ -1,4 +1,3 @@
-
 let signinForm = document.querySelector('.signin-form')
 
     signinForm.addEventListener("submit", (e) => {
@@ -15,6 +14,3 @@ let signinForm = document.querySelector('.signin-form')
         window.location.href = '../signup.html'
             
       });
-
-
-

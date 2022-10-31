@@ -1,0 +1,55 @@
+
+.single-page__item{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.singleImg{
+    max-width: 400px;
+    min-width: 280px;
+    height: auto;
+}
+.single-page__text-box{
+    width: 600px;
+
+    color: rgb(23, 218, 5);
+}
+.card-item__title{
+    margin: 0;
+    padding:0 0 20px 0;
+}
+.singleText{
+    padding: 20px 0;
+}
+.card-price1{
+    margin: 10px;
+    padding: 5px 10px;
+
+    border: 2px solid ;
+    border-radius: 4px;
+
+    background: rgb(249, 224, 2);
+    color: #fff;
+}
+.card-category{
+    margin: 10px;
+    padding: 5px 10px;
+    
+    border: 2px solid ;
+    border-radius: 4px;
+    
+    background: rgb(10, 249, 2);
+    color: #fff;
+    
+}
+.card-rating{
+    margin: 10px;
+    padding: 5px 10px;
+    
+    border: 2px solid ;
+    border-radius: 4px;
+    
+    background: rgb(116, 23, 255);
+    color: #fff;
+
+}
