@@ -579,7 +579,7 @@ ul, li {
 }
 
 .card-skitka__price {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 @media screen and (max-width: 500px) {
@@ -611,6 +611,11 @@ ul, li {
 
 .singleText {
   padding: 20px 0;
+}
+
+.card-rating__box {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .card-price1 {
